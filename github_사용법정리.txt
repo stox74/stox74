@@ -10,3 +10,6 @@ git add (row_text_data_negative.xlsx) --> 파일명
 git commit -m " " --> 파일 설명 
 
 git remote add origin "github주소"   -->github로 파일 업로드 됨 
+
+git push origin master  --> github 주소에 파일 올림 
+git pull origin master  --> github에서 파일 다운로드 됨  
