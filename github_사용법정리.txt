@@ -1,0 +1,12 @@
+git 비번 : as103705
+
+git init  (git 시작)
+
+git config --global user.email "stox74@gmail.com"
+git config --global user.email "stox74"
+
+git add (row_text_data_negative.xlsx) --> 파일명
+
+git commit -m " " --> 파일 설명 
+
+git remote add origin "github주소"   -->github로 파일 업로드 됨 
